@@ -1,5 +1,5 @@
 ### Hi I'm Floweryu  👋
-<img src="https://github-readme-stats.vercel.app/api?username=Floweryu&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false>
+![Floweryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Floweryu&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)![Most use](https://github-readme-stats.vercel.app/api/top-langs/?username=Floweryu&layout=compact)
 
           
 <!--
